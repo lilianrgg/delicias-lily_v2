@@ -1,0 +1,16 @@
+{
+  "name": "delicias-lily",
+  "version": "1.0.0",
+  "description": "paquete de configuracion",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lilianrgg@bitbucket.org/lilianrgg/delicias-lily.git"
+  },
+  "author": "liliangomez",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/lilianrgg/delicias-lily#readme"
+}
