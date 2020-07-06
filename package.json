@@ -4,6 +4,7 @@
   "description": "paquete de configuracion",
   "main": "index.html",
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,5 +13,12 @@
   },
   "author": "liliangomez",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/lilianrgg/delicias-lily#readme"
+  "homepage": "https://bitbucket.org/lilianrgg/delicias-lily#readme",
+  "devDependencies": {
+    "http-proxy-middleware": "^1.0.4",
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "connect-history-api-fallback": "^1.6.0"
+  }
 }
