@@ -10,12 +10,23 @@
 
 .btn {
   color: a4a4a4;
+  width: 100%
+}
+
+.btnJumbotron {
+  color: a4a4a4;
 }
 
 .card{
   flex: 1 150px;
   padding: 2px 5px 2px 5px;
+  margin-top: 10px;
+}
 
+.cardImg{
+  flex: 1 350px;
+  padding: 2px 5px 2px 5px;
+  margin-top: 10px;
 }
 
 .footer {
@@ -23,4 +34,5 @@
    background-color: #dfdfdf; /* Green */
    margin-bottom: 0px
    color: white;
+   margin-top: 50px;
 }
